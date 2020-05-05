@@ -18,7 +18,7 @@ My Github page is https://github.com/kingazaan.
 * [Project 2](https://github.com/csuf-cpsc-mshafae-spring-2020/cpsc-120-project-02-kingazaan)
 
 ### Contact Me
-[Linkedin](https://www.linkedin.com/in/azaan-barlas/)\
+[Linkedin](https://www.linkedin.com/in/azaan-barlas/)  \n
 [Email](azaanbarlas@gmail.com)
 
 Any compliments, criticisms, or advice on my code, feel free to contact me!
